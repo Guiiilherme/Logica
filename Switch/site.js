@@ -8,7 +8,7 @@ function abrirSite() {
     Entrada = parseInt(frmAbrir.txtEntrada.value)
     switch (Entrada) {
         case 1:
-            window.location = "file:///C:/Users/guilherme.hacpaula/Pictures/Logica/calcImc/index.html";
+            window.location = "file:///C:/Users/guilherme.hacpaula/Documents/Logica/Logica/calcularImc/index.html";
             break
     }
     switch (Entrada) {
@@ -18,17 +18,17 @@ function abrirSite() {
     }
     switch (Entrada) {
         case 3:
-            window.location = "file:///C:/Users/guilherme.hacpaula/Pictures/Logica/churrasCalculadora/index.html";
+            window.location = "file:///C:/Users/guilherme.hacpaula/Documents/Logica/Logica/fahrenheit%20para%20celsius/index.html";
             break
     }
     switch (Entrada) {
         case 4:
-            window.location = "file:///C:/Users/guilherme.hacpaula/Pictures/Logica/Dolar/converterDolar.html";
+            window.location = "file:///C:/Users/guilherme.hacpaula/Documents/Logica/Logica/Dolar/converterDolar.html";
             break
     }
     switch (Entrada) {
         case 5:
-            window.location = "file:///C:/Users/guilherme.hacpaula/Pictures/Logica/jogoDado/index.html";
+            window.location = "file:///C:/Users/guilherme.hacpaula/Documents/Logica/Logica/jogoDado/index.html";
             break
     }
     switch (Entrada) {
@@ -38,7 +38,7 @@ function abrirSite() {
     }
     switch (Entrada) {
         case 7:
-            window.location = "file:///C:/Users/guilherme.hacpaula/Pictures/Logica/areaCirculo/areaCirculo.html";
+            window.location = "file:///C:/Users/guilherme.hacpaula/Documents/Logica/Logica/areaCirculo/areaCirculo.html";
             break
     }
 }
