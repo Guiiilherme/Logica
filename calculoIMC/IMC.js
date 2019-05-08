@@ -1,6 +1,6 @@
-/**
+﻿/**
  * calculo da media
- * @author Murilo Solano
+ * @author guilherme henrique amaral castilho de paula
  */
 
 function calcularIMC() {
